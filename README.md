@@ -1,4 +1,4 @@
-#Graph
+# Graphs
 *graph* is a simple header library of basic C++ graph (as in networks, not plots) classes.
 A couple of basic classes are implemented that allow most other graph types to be simulated
 
